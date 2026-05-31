@@ -35,3 +35,10 @@
 - [Sweet-Workshop](https://bashmachok1982.github.io/artistsHUB-team-project/)
 
 <img src="https://komarev.com/ghpvc/?username=Dima-dev1&label=Profile%20views&color=blue&style=for-the-badge" />
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dima-dev1&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-dev1&layout=compact&theme=github_dark)
