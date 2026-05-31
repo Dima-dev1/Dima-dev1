@@ -9,7 +9,7 @@
 ![CSS](https://img.shields.io/badge/css-20232A.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js]([https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=white))
+![Vue.js](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 
 ## ⚙️ Backend
