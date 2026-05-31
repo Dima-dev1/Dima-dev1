@@ -14,6 +14,9 @@
 
 ## ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-20232A.svg?style=for-the-badge&logo=express&logoColor=white)
+
 
 ## 🛠️ Tools & DevOps 
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white)
@@ -29,9 +32,15 @@
 ## 🚀 Projects
 
 - [WatchWorld](https://github.com/Dima-dev1/WatchWorld-Server)
+A full-stack e-commerce website for browsing and purchasing watches. Built with Node.js, 
+Express, SQLite and EJS. Features include user authentication with bcrypt, role-based 
+admin access, a shopping basket, favourites list, and product search/filtering.
 
 #### Team Projects
 
 - [Sweet-Workshop](https://github.com/Dima-dev1/Sweet-Workshop-Project)
+A dessert store web app where users can browse, filter, and order desserts. 
+As team lead, I coordinated a team of 8 developers across 8 sections of the 
+project, while personally building the dessert details modal
 
 <img src="https://komarev.com/ghpvc/?username=Dima-dev1&label=Profile%20views&color=blue&style=for-the-badge" />
