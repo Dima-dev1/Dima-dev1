@@ -2,6 +2,7 @@
 <h1>
   Hey, I'm Dima! <br>
 </h1>
+</div>
 
 ## 💻 Frontend
 ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,3 +31,5 @@
 #### Team Projects
 
 - [Sweet-Workshop](https://bashmachok1982.github.io/artistsHUB-team-project/)
+
+<img src="https://komarev.com/ghpvc/?username=Dima-dev1&label=Profile%20views&color=blue&style=for-the-badge" />
