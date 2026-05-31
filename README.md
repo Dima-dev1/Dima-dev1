@@ -1,6 +1,6 @@
 <div id="greetings" align="center">
 <h1>
-  Hey, I'm Dima! <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1200&color=2F6FEB&center=true&vCenter=true&width=500&lines=Hey,+I'm+Dima!" />
 </h1>
 </div>
 
@@ -32,13 +32,6 @@
 
 #### Team Projects
 
-- [Sweet-Workshop](https://bashmachok1982.github.io/artistsHUB-team-project/)
+- [Sweet-Workshop](https://github.com/Dima-dev1/Sweet-Workshop-Project)
 
 <img src="https://komarev.com/ghpvc/?username=Dima-dev1&label=Profile%20views&color=blue&style=for-the-badge" />
-
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dima-dev1&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-dev1&layout=compact&theme=github_dark)
