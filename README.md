@@ -7,12 +7,14 @@
 ## 💻 Frontend
 ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-20232A.svg?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-20232A.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-20232A?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-20232A.svg?style=for-the-badge&logo=greensock&logoColor=white)
 
 
 ## ⚙️ Backend
