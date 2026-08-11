@@ -19,8 +19,10 @@
 
 ## ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-20232A.svg?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge&logo=json&logoColor=white)
 
 
 ## 🛠️ Tools & DevOps 
