@@ -43,6 +43,10 @@ A full-stack e-commerce website for browsing and purchasing watches. Built with 
 Express, SQLite and EJS. Features include user authentication with bcrypt, role-based 
 admin access, a shopping basket, favourites list, and product search/filtering.
 
+- [NoteHub](https://09-auth-nine-gilt.vercel.app/)
+Full-stack note management application that allows users to register, create, edit, and delete notes, enabling efficient personal organization and time management.
+
+
 #### Team Projects
 
 - [Sweet-Workshop](https://github.com/Dima-dev1/Sweet-Workshop-Project)
